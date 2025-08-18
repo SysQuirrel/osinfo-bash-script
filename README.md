@@ -1,0 +1,1 @@
+# osinfo-bash-script
