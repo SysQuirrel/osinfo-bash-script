@@ -1,2 +1,20 @@
 test.txt
 note.txt
+
+# Test artifacts and temporary files
+/tmp/
+*_test_output.txt
+*_test_results.txt
+.test_*
+test_backup_*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
